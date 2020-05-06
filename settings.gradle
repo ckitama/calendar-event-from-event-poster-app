@@ -1,0 +1,3 @@
+rootProject.name='BakaApp'
+include ':app'
+include ':nlpapi'
